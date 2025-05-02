@@ -41,6 +41,9 @@
         justify-content: flex-start !important;
         width: auto !important;
     }
+    .right-sec{
+        margin-left: 5px;
+    }
     .left-sec{
         margin-right: 5px !important;
     }
