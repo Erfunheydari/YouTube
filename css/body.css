@@ -22,8 +22,8 @@
         padding-right: 20px;
     }
 }
-@media (max-width: 500px){
-    .mid-sex{
+@media (max-width: 600px){
+    .mid-sec{
         display: none !important;
     }
     .sidebar{
