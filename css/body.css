@@ -37,7 +37,7 @@
         border-radius: 15px;
         margin-right: 5px;
     }
-    .right-sec , .mid-sec{
+    .right-sec , .mid-sec , left-sec{
         justify-content: flex-start !important;
         width: auto !important;
     }
