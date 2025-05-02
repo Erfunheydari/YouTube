@@ -23,7 +23,7 @@
     }
 }
 @media (max-width: 650px){
-    .mid-sec{
+    .search-input{
         display: none !important;
     }
     .sidebar{
