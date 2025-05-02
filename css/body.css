@@ -35,6 +35,7 @@
     }
     .btn-search{
         border-radius: 15px;
+        margin-right: 5px;
     }
     .right-sec , .mid-sec{
         justify-content: flex-start !important;
@@ -43,6 +44,10 @@
     .left-sec{
         margin-right: 5px !important;
     }
+    .left-sec-icon2{
+         margin-left: 5px !important;
+    }
+
 
 }
 
