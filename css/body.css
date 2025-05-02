@@ -36,10 +36,12 @@
     .btn-search{
         border-radius: 15px;
     }
-    .right-sec{
+    .right-sec , .mid-sec{
         justify-content: flex-start !important;
         width: auto !important;
     }
+    .left-sec{
+        margin-right: 5px;
 
 }
 
