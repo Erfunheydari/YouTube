@@ -22,6 +22,11 @@
         padding-right: 20px;
     }
 }
+@media (max-width: 500px){
+    .mid-sex{
+        display: none !important;
+    }
+}
 
 .video-time{
     position: absolute;
