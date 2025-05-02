@@ -36,7 +36,9 @@
     .btn-search{
         border-radius: 15px;
     }
-    
+    .right-sec{
+        justify-content: baseline;
+    }
 
 }
 
