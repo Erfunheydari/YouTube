@@ -22,7 +22,7 @@
         padding-right: 20px;
     }
 }
-@media (max-width: 600px){
+@media (max-width: 650px){
     .mid-sec{
         display: none !important;
     }
