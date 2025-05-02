@@ -41,7 +41,8 @@
         width: auto !important;
     }
     .left-sec{
-        margin-right: 5px;
+        margin-right: 5px !important;
+    }
 
 }
 
